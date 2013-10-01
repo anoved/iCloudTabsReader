@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Run to print the current iCloud Tabs list in `title <url> (device)` format.
+
 from icloudtabslib import iCloudTabsReader
 
 icloud = iCloudTabsReader()
